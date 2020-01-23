@@ -1,6 +1,4 @@
 {
-    "salientes":[
-        {
             "id": 1,
             "extension": "3860",
             "descripcion": "Pedro.Alvarez",
@@ -122,5 +120,3 @@
             "descripcion": "Jose.Camacho",
             "total": 2
         }
-      ]
-}
