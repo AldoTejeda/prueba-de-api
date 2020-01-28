@@ -175,11 +175,10 @@
             "total": 6
         }
       ],
-    "graficas":[
+    "graficas":
         {
             "rates":
                 {"CAD":1.4516,"USD":1.1005,"GBP":0.84603}
             ,"base":"EUR","date":"2020-01-28"
         }
-    ]
 }
